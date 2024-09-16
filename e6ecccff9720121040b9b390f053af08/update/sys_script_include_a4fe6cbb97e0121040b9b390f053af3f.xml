@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_828868_advisor.AdviceAPIClient</api_name>
+        <caller_access/>
+        <client_callable>true</client_callable>
+        <description>Search and return advice slips by ID</description>
+        <mobile_callable>false</mobile_callable>
+        <name>AdviceAPIClient</name>
+        <sandbox_callable>false</sandbox_callable>
+        <script><![CDATA[var AdviceAPIClient = Class.create();
+AdviceAPIClient.prototype = Object.extendsObject(global.AbstractAjaxProcessor, {
+
+	getAdviceByID: async function(slip_id) {
+		
+	},
+
+	getAdviceByQuery: async function(query) {},
+
+    type: 'AdviceAPIClient'
+});]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-16 17:25:38</sys_created_on>
+        <sys_id>a4fe6cbb97e0121040b9b390f053af3f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>AdviceAPIClient</sys_name>
+        <sys_package display_value="Advisor" source="x_828868_advisor">e6ecccff9720121040b9b390f053af08</sys_package>
+        <sys_policy>protected</sys_policy>
+        <sys_scope display_value="Advisor">e6ecccff9720121040b9b390f053af08</sys_scope>
+        <sys_update_name>sys_script_include_a4fe6cbb97e0121040b9b390f053af3f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-16 17:25:38</sys_updated_on>
+    </sys_script_include>
+    <sys_es_latest_script action="INSERT_OR_UPDATE">
+        <id>a4fe6cbb97e0121040b9b390f053af3f</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-16 17:25:38</sys_created_on>
+        <sys_id>83af34739764121040b9b390f053af4d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-16 17:25:38</sys_updated_on>
+        <table>sys_script_include</table>
+        <use_es_latest>true</use_es_latest>
+    </sys_es_latest_script>
+</record_update>

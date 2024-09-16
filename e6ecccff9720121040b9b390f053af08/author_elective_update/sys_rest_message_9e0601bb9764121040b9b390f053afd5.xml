@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message">
+    <sys_rest_message action="DELETE">
+        <access>package_private</access>
+        <authentication_type>no_authentication</authentication_type>
+        <basic_auth_password/>
+        <basic_auth_profile/>
+        <basic_auth_user/>
+        <description/>
+        <name>AdviceByID</name>
+        <oauth2_profile/>
+        <protocol_name/>
+        <rest_endpoint>https://api.adviceslip.com/advice/</rest_endpoint>
+        <sys_class_name>sys_rest_message</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-16 17:54:08</sys_created_on>
+        <sys_id>9e0601bb9764121040b9b390f053afd5</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>AdviceByID</sys_name>
+        <sys_package display_value="Advisor" source="x_828868_advisor">e6ecccff9720121040b9b390f053af08</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Advisor">e6ecccff9720121040b9b390f053af08</sys_scope>
+        <sys_update_name>sys_rest_message_9e0601bb9764121040b9b390f053afd5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-16 18:54:41</sys_updated_on>
+        <use_basic_auth>false</use_basic_auth>
+        <use_mutual_auth>false</use_mutual_auth>
+    </sys_rest_message>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Advisor">e6ecccff9720121040b9b390f053af08</application>
+        <file_path/>
+        <instance_id>4c49ea1f1beabd141024eb9b2d4bcbde</instance_id>
+        <instance_name>dev220629</instance_name>
+        <name>sys_rest_message_9e0601bb9764121040b9b390f053afd5</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message"><sys_rest_message action="INSERT_OR_UPDATE"><access>package_private</access><authentication_type>no_authentication</authentication_type><basic_auth_password/><basic_auth_profile/><basic_auth_user/><description/><name>AdviceByID</name><oauth2_profile/><protocol_name/><rest_endpoint>https://api.adviceslip.com/advice/</rest_endpoint><sys_class_name>sys_rest_message</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-09-16 17:54:08</sys_created_on><sys_id>9e0601bb9764121040b9b390f053afd5</sys_id><sys_mod_count>2</sys_mod_count><sys_name>AdviceByID</sys_name><sys_package display_value="Advisor" source="x_828868_advisor">e6ecccff9720121040b9b390f053af08</sys_package><sys_policy/><sys_scope display_value="Advisor">e6ecccff9720121040b9b390f053af08</sys_scope><sys_update_name>sys_rest_message_9e0601bb9764121040b9b390f053afd5</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-09-16 18:54:41</sys_updated_on><use_basic_auth>false</use_basic_auth><use_mutual_auth>false</use_mutual_auth></sys_rest_message></record_update>]]></payload>
+        <payload_hash>327689288</payload_hash>
+        <record_name>AdviceByID</record_name>
+        <reverted_from/>
+        <source>e90fc43f9720121040b9b390f053af55</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-16 18:54:41</sys_created_on>
+        <sys_id>6304513f97a4121040b9b390f053af95</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>191fc2fe0ab0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-16 18:54:41</sys_updated_on>
+        <type>REST Message</type>
+        <update_guid>e704513fcda4121008e81f0712d38d94</update_guid>
+        <update_guid_history>e704513fcda4121008e81f0712d38d94:327689288,067601bbb8641210768fb98d572cf1cd:1453200142,e8360dbb0f641210b29d8a6885fcbd78:1896033610</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-16 18:55:24</sys_created_on>
+        <sys_db_object display_value="" name="sys_rest_message">sys_rest_message</sys_db_object>
+        <sys_id>1e98652fd18d463c847cc5fa0843c5a4</sys_id>
+        <sys_metadata>9e0601bb9764121040b9b390f053afd5</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>AdviceByID</sys_name>
+        <sys_package display_value="Advisor" source="x_828868_advisor">e6ecccff9720121040b9b390f053af08</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Advisor">e6ecccff9720121040b9b390f053af08</sys_scope>
+        <sys_scope_delete display_value="">2a3acc5ef997476a90907f1301181371</sys_scope_delete>
+        <sys_update_name>sys_rest_message_9e0601bb9764121040b9b390f053afd5</sys_update_name>
+        <sys_update_version display_value="sys_rest_message_9e0601bb9764121040b9b390f053afd5">6304513f97a4121040b9b390f053af95</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-16 18:55:24</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

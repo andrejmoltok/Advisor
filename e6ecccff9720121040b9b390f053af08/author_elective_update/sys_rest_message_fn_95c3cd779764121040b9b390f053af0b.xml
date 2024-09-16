@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn">
+    <sys_rest_message_fn action="DELETE">
+        <authentication_type>inherit_from_parent</authentication_type>
+        <basic_auth_password/>
+        <basic_auth_profile/>
+        <basic_auth_user/>
+        <content/>
+        <function_name>Default GET</function_name>
+        <http_method>get</http_method>
+        <lock>false</lock>
+        <oauth2_profile/>
+        <protocol_name/>
+        <qualified_name>AdviceSlipByQuery [ Default GET ]</qualified_name>
+        <rest_endpoint>https://api.adviceslip.com/advice/search/{query}</rest_endpoint>
+        <rest_message display_value="AdviceSlipByQuery">a49349f39764121040b9b390f053af51</rest_message>
+        <sys_class_name>sys_rest_message_fn</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-16 17:43:32</sys_created_on>
+        <sys_id>95c3cd779764121040b9b390f053af0b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Default GET</sys_name>
+        <sys_package display_value="Advisor" source="x_828868_advisor">e6ecccff9720121040b9b390f053af08</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Advisor">e6ecccff9720121040b9b390f053af08</sys_scope>
+        <sys_update_name>sys_rest_message_fn_95c3cd779764121040b9b390f053af0b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-16 17:43:32</sys_updated_on>
+        <use_basic_auth>false</use_basic_auth>
+        <use_mid_server/>
+        <use_mutual_auth>false</use_mutual_auth>
+    </sys_rest_message_fn>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Advisor">e6ecccff9720121040b9b390f053af08</application>
+        <file_path/>
+        <instance_id>4c49ea1f1beabd141024eb9b2d4bcbde</instance_id>
+        <instance_name>dev220629</instance_name>
+        <name>sys_rest_message_fn_95c3cd779764121040b9b390f053af0b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn"><sys_rest_message_fn action="INSERT_OR_UPDATE"><authentication_type>inherit_from_parent</authentication_type><basic_auth_password/><basic_auth_profile/><basic_auth_user/><content/><function_name>Default GET</function_name><http_method>get</http_method><lock>false</lock><oauth2_profile/><protocol_name/><qualified_name>AdviceSlipByQuery [ Default GET ]</qualified_name><rest_endpoint>https://api.adviceslip.com/advice/search/{query}</rest_endpoint><rest_message display_value="AdviceSlipByQuery">a49349f39764121040b9b390f053af51</rest_message><sys_class_name>sys_rest_message_fn</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-09-16 17:43:32</sys_created_on><sys_id>95c3cd779764121040b9b390f053af0b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Default GET</sys_name><sys_package display_value="Advisor" source="x_828868_advisor">e6ecccff9720121040b9b390f053af08</sys_package><sys_policy/><sys_scope display_value="Advisor">e6ecccff9720121040b9b390f053af08</sys_scope><sys_update_name>sys_rest_message_fn_95c3cd779764121040b9b390f053af0b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-09-16 17:43:32</sys_updated_on><use_basic_auth>false</use_basic_auth><use_mid_server/><use_mutual_auth>false</use_mutual_auth></sys_rest_message_fn></record_update>]]></payload>
+        <payload_hash>1912196303</payload_hash>
+        <record_name>Default GET</record_name>
+        <reverted_from/>
+        <source>e90fc43f9720121040b9b390f053af55</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-16 17:43:32</sys_created_on>
+        <sys_id>d5c3cd779764121040b9b390f053af0d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>191fbeebcb80000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-16 17:43:32</sys_updated_on>
+        <type>HTTP Method</type>
+        <update_guid>d9c3cd77dd6412106bf46cc66f89110c</update_guid>
+        <update_guid_history>d9c3cd77dd6412106bf46cc66f89110c:1912196303</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-16 17:53:23</sys_created_on>
+        <sys_db_object display_value="" name="sys_rest_message_fn">sys_rest_message_fn</sys_db_object>
+        <sys_id>261724955d2f43be9d4dfec836050219</sys_id>
+        <sys_metadata>95c3cd779764121040b9b390f053af0b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Default GET</sys_name>
+        <sys_package display_value="Advisor" source="x_828868_advisor">e6ecccff9720121040b9b390f053af08</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Advisor">e6ecccff9720121040b9b390f053af08</sys_scope>
+        <sys_scope_delete display_value="">2a3acc5ef997476a90907f1301181371</sys_scope_delete>
+        <sys_update_name>sys_rest_message_fn_95c3cd779764121040b9b390f053af0b</sys_update_name>
+        <sys_update_version display_value="sys_rest_message_fn_95c3cd779764121040b9b390f053af0b">d5c3cd779764121040b9b390f053af0d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-16 17:53:23</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

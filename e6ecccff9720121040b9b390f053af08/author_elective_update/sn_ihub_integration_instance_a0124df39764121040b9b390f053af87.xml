@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_ihub_integration_instance">
+    <sn_ihub_integration_instance action="DELETE">
+        <description>AdviceAPI Integration</description>
+        <integration_table>sys_data_source</integration_table>
+        <integration_type/>
+        <internal_name/>
+        <name>AdviceAPI</name>
+        <record_id>e8124df39764121040b9b390f053af88</record_id>
+        <sys_class_name>sn_ihub_integration_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-16 17:36:06</sys_created_on>
+        <sys_id>a0124df39764121040b9b390f053af87</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>AdviceAPI</sys_name>
+        <sys_package display_value="Advisor" source="x_828868_advisor">e6ecccff9720121040b9b390f053af08</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Advisor">e6ecccff9720121040b9b390f053af08</sys_scope>
+        <sys_update_name>sn_ihub_integration_instance_a0124df39764121040b9b390f053af87</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-16 17:36:07</sys_updated_on>
+    </sn_ihub_integration_instance>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Advisor">e6ecccff9720121040b9b390f053af08</application>
+        <file_path/>
+        <instance_id>4c49ea1f1beabd141024eb9b2d4bcbde</instance_id>
+        <instance_name>dev220629</instance_name>
+        <name>sn_ihub_integration_instance_a0124df39764121040b9b390f053af87</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_ihub_integration_instance"><sn_ihub_integration_instance action="INSERT_OR_UPDATE"><description>AdviceAPI Integration</description><integration_table>sys_data_source</integration_table><integration_type/><internal_name/><name>AdviceAPI</name><record_id>e8124df39764121040b9b390f053af88</record_id><sys_class_name>sn_ihub_integration_instance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-09-16 17:36:06</sys_created_on><sys_id>a0124df39764121040b9b390f053af87</sys_id><sys_mod_count>1</sys_mod_count><sys_name>AdviceAPI</sys_name><sys_package display_value="Advisor" source="x_828868_advisor">e6ecccff9720121040b9b390f053af08</sys_package><sys_policy/><sys_scope display_value="Advisor">e6ecccff9720121040b9b390f053af08</sys_scope><sys_update_name>sn_ihub_integration_instance_a0124df39764121040b9b390f053af87</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-09-16 17:36:07</sys_updated_on></sn_ihub_integration_instance></record_update>]]></payload>
+        <payload_hash>598330121</payload_hash>
+        <record_name>AdviceAPI</record_name>
+        <reverted_from/>
+        <source>e90fc43f9720121040b9b390f053af55</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-16 17:36:07</sys_created_on>
+        <sys_id>a01201779764121040b9b390f053af7a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>191fbe7f0e10000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-16 17:36:07</sys_updated_on>
+        <type>Data import</type>
+        <update_guid>a41201775a6412100d891a7e3520a979</update_guid>
+        <update_guid_history>a41201775a6412100d891a7e3520a979:598330121</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="AdviceAPI">cec28d779764121040b9b390f053afd5</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-16 17:39:13</sys_created_on>
+        <sys_db_object display_value="" name="sn_ihub_integration_instance">sn_ihub_integration_instance</sys_db_object>
+        <sys_id>3012c438b01a4512b00d0102029c06c1</sys_id>
+        <sys_metadata>a0124df39764121040b9b390f053af87</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>AdviceAPI</sys_name>
+        <sys_package display_value="Advisor" source="x_828868_advisor">e6ecccff9720121040b9b390f053af08</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Advisor">e6ecccff9720121040b9b390f053af08</sys_scope>
+        <sys_scope_delete display_value="">2a3acc5ef997476a90907f1301181371</sys_scope_delete>
+        <sys_update_name>sn_ihub_integration_instance_a0124df39764121040b9b390f053af87</sys_update_name>
+        <sys_update_version display_value="sn_ihub_integration_instance_a0124df39764121040b9b390f053af87">a01201779764121040b9b390f053af7a</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-16 17:39:13</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

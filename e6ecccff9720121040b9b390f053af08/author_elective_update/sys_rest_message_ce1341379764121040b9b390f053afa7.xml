@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message">
+    <sys_rest_message action="DELETE">
+        <access>package_private</access>
+        <authentication_type>no_authentication</authentication_type>
+        <basic_auth_password/>
+        <basic_auth_profile/>
+        <basic_auth_user/>
+        <description>Search and return advice slips based on ID</description>
+        <name>AdviceSlipByID</name>
+        <oauth2_profile/>
+        <protocol_name/>
+        <rest_endpoint>https://api.adviceslip.com/advice/{slip_id}</rest_endpoint>
+        <sys_class_name>sys_rest_message</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-16 17:42:33</sys_created_on>
+        <sys_id>ce1341379764121040b9b390f053afa7</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>AdviceSlipByID</sys_name>
+        <sys_package display_value="Advisor" source="x_828868_advisor">e6ecccff9720121040b9b390f053af08</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Advisor">e6ecccff9720121040b9b390f053af08</sys_scope>
+        <sys_update_name>sys_rest_message_ce1341379764121040b9b390f053afa7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-16 17:51:39</sys_updated_on>
+        <use_basic_auth>false</use_basic_auth>
+        <use_mutual_auth>false</use_mutual_auth>
+    </sys_rest_message>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Advisor">e6ecccff9720121040b9b390f053af08</application>
+        <file_path/>
+        <instance_id>4c49ea1f1beabd141024eb9b2d4bcbde</instance_id>
+        <instance_name>dev220629</instance_name>
+        <name>sys_rest_message_ce1341379764121040b9b390f053afa7</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message"><sys_rest_message action="INSERT_OR_UPDATE"><access>package_private</access><authentication_type>no_authentication</authentication_type><basic_auth_password/><basic_auth_profile/><basic_auth_user/><description>Search and return advice slips based on ID</description><name>AdviceSlipByID</name><oauth2_profile/><protocol_name/><rest_endpoint>https://api.adviceslip.com/advice/{slip_id}</rest_endpoint><sys_class_name>sys_rest_message</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-09-16 17:42:33</sys_created_on><sys_id>ce1341379764121040b9b390f053afa7</sys_id><sys_mod_count>2</sys_mod_count><sys_name>AdviceSlipByID</sys_name><sys_package display_value="Advisor" source="x_828868_advisor">e6ecccff9720121040b9b390f053af08</sys_package><sys_policy/><sys_scope display_value="Advisor">e6ecccff9720121040b9b390f053af08</sys_scope><sys_update_name>sys_rest_message_ce1341379764121040b9b390f053afa7</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-09-16 17:51:39</sys_updated_on><use_basic_auth>false</use_basic_auth><use_mutual_auth>false</use_mutual_auth></sys_rest_message></record_update>]]></payload>
+        <payload_hash>1647162451</payload_hash>
+        <record_name>AdviceSlipByID</record_name>
+        <reverted_from/>
+        <source>e90fc43f9720121040b9b390f053af55</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-16 17:51:39</sys_created_on>
+        <sys_id>c0a50d7b9764121040b9b390f053afa8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>191fbf62a640000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-16 17:51:39</sys_updated_on>
+        <type>REST Message</type>
+        <update_guid>48a50d7bbb641210c3c0617c4a739da7</update_guid>
+        <update_guid_history>48a50d7bbb641210c3c0617c4a739da7:1647162451,d535857b3b641210ae03e7b57d20d438:747163103,f28305b7336412105cebe03b2d313d03:1647162451</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-16 17:53:15</sys_created_on>
+        <sys_db_object display_value="" name="sys_rest_message">sys_rest_message</sys_db_object>
+        <sys_id>09178ae851314d6892596e37b1a99b01</sys_id>
+        <sys_metadata>ce1341379764121040b9b390f053afa7</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>AdviceSlipByID</sys_name>
+        <sys_package display_value="Advisor" source="x_828868_advisor">e6ecccff9720121040b9b390f053af08</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Advisor">e6ecccff9720121040b9b390f053af08</sys_scope>
+        <sys_scope_delete display_value="">2a3acc5ef997476a90907f1301181371</sys_scope_delete>
+        <sys_update_name>sys_rest_message_ce1341379764121040b9b390f053afa7</sys_update_name>
+        <sys_update_version display_value="sys_rest_message_ce1341379764121040b9b390f053afa7">c0a50d7b9764121040b9b390f053afa8</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-16 17:53:15</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
