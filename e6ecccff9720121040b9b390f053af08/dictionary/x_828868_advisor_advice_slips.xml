@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="5ec490bb9760121040b9b390f053afc7" label="Advice Slips" max_length="40" name="x_828868_advisor_advice_slips" type="collection">
+        <element label="Advice Date" mandatory="true" max_length="40" name="advice_date" read_only="true" type="glide_date"/>
+        <element label="AdviceSlip" mandatory="true" max_length="40" name="adviceslip" type="string"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element label="Advice ID" mandatory="true" max_length="40" name="advice_id" read_only="true" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>
