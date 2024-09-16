@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>10</order>
+        <role display_value="x_828868_advisor.admin" name="x_828868_advisor.admin">2aecccff9720121040b9b390f053af4f</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-16 13:43:53</sys_created_on>
+        <sys_id>32ecccff9720121040b9b390f053af52</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>2aecccff9720121040b9b390f053af4f</sys_name>
+        <sys_package display_value="Advisor" source="x_828868_advisor">e6ecccff9720121040b9b390f053af08</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Advisor">e6ecccff9720121040b9b390f053af08</sys_scope>
+        <sys_update_name>sys_embedded_help_role_32ecccff9720121040b9b390f053af52</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-16 13:43:53</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
